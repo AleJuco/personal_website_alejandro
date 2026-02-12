@@ -27,7 +27,7 @@ export const aboutInfo: AboutInfo = {
   photo: "/projects/profile2.jpg",
   name: "Alejandro Juco Imperial",
   tagline: "Integrated Engineering @ UBC | Jollibee Enthusiast",
-  bio: "I'm a passionate tinkerer with technical interests spanning robotics, automation, and creative projects. ",
+  bio: "I'm a passionate tinkerer with technical interests spanning robotics, automation, and creative projects. I love building my own skills and exploring new interests within and out of engineering.",
   favoriteSong: {
     title: "Playground",
     artist: "Yel",
@@ -37,11 +37,7 @@ export const aboutInfo: AboutInfo = {
     text: "Fall seven times, stand up 8",
     author: "Japanese Proverb",
   },
-  funFacts: [
-    "I play 5 instruments",
-    "I drive stick",
-    "Night owl 🦉",
-  ],
+
 }
 
 export const hobbies: Hobby[] = [
@@ -54,19 +50,18 @@ export const hobbies: Hobby[] = [
   {
     id: "2",
     title: "Snowboarding",
-    description: "Taught myself how to board so I could feel like Chloe Kim. My favourite mountain is Cypress!",
-    image: "/projects/board1.jpg",
+    description: "Taught myself how to board so I could feel like Chloe Kim. My go to mountain is Cypress Mountain in BC, Canada.",
+    image: "/projects/board2.jpg",
   },
   {
     id: "3",
-    title: "Music",
-    description: "Listening to and discovering new artists and genres.",
-    image: "/projects/board1.jpg",
+    title: "KBBQ",
+    description: "😋",
+    image: "/projects/kbbq1.jpg",
   },
   {
     id: "4",
-    title: "Reading",
-    description: "Diving into books about technology, science, and fiction.",
-    image: "/about/hobbies/reading.jpg",
+    title: "More to come...",
+    description: "",
   },
 ]

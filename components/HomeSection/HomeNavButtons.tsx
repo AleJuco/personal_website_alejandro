@@ -80,7 +80,7 @@ const HomeNavButtons = () => {
 
   return (
     <motion.div 
-      className="grid grid-cols-2 gap-4 md:gap-6 max-w-lg"
+      className="flex flex-col gap-3"
       variants={containerVariants}
       initial="hidden"
       animate="visible"
